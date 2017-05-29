@@ -1,3 +1,5 @@
+Coping to Netstarter
+
 # Capistrano::Magento2
 
 [![Gem Version](https://badge.fury.io/rb/capistrano-magento2.svg)](https://badge.fury.io/rb/capistrano-magento2)
