@@ -13,6 +13,9 @@ set :repo_url, "git@example.com:me/my_repo.git"
 # Default value for :format is :airbrussh.
 # set :format, :airbrussh
 
+# Stop Creating codepool part of NS coding practise
+set :repo_tree, "codepool"
+
 # You can configure the Airbrussh format using :format_options.
 # These are the defaults.
 # set :format_options, command_output: true, log_file: "log/capistrano.log", color: :auto, truncate: :auto
